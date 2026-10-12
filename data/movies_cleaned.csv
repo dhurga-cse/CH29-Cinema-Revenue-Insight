@@ -1,0 +1,21 @@
+movie_id,movie,genre,language,runtime_minutes,certification
+M01,Sky Warriors,Action,Telugu,147,U
+M02,Love Beyond,Romance,Malayalam,111,U
+M03,Code Red,Action,Hindi,178,A
+M04,The Last Kingdom,Drama,Malayalam,138,A
+M05,Magic Forest,Animation,Malayalam,180,UA
+M06,Silent Truth,Thriller,English,148,U
+M07,Ocean Mystery,Adventure,Hindi,131,U
+M08,City Lights,Drama,Hindi,149,UA
+M09,Final Mission,Action,Hindi,169,UA
+M10,Dream Journey,Romance,Malayalam,104,U
+M11,Shadow Game,Thriller,Telugu,151,UA
+M12,Golden Days,Drama,Hindi,151,U
+M13,Space Explorer,Sci-Fi,Malayalam,136,A
+M14,Hidden Secret,Mystery,English,151,U
+M15,Family Time,Family,Telugu,140,UA
+M16,Wild Earth,Documentary,English,144,U
+M17,Night Chase,Action,Telugu,153,UA
+M18,Broken Promise,Romance,Malayalam,92,UA
+M19,Future World,Sci-Fi,Tamil,140,U
+M20,The Champion,Sports,Telugu,96,A

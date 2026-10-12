@@ -1,0 +1,9 @@
+cinema_id,cinema,city,screen_capacity
+C01,SilverScreen Coimbatore,Coimbatore,150
+C02,SilverScreen Chennai,Chennai,200
+C03,SilverScreen Bengaluru,Bengaluru,180
+C04,SilverScreen Madurai,Madurai,120
+C05,SilverScreen Salem,Salem,140
+C06,SilverScreen Trichy,Trichy,160
+C07,SilverScreen Kochi,Kochi,170
+C08,SilverScreen Hyderabad,Hyderabad,220

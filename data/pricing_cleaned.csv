@@ -1,0 +1,10 @@
+seat_class,offer,ticket_price,discount_percent
+Standard,No Offer,180,0
+Standard,Student,180,10
+Standard,Weekend Deal,180,15
+Premium,No Offer,250,0
+Premium,Student,250,10
+Premium,Weekend Deal,250,15
+Recliner,No Offer,350,0
+Recliner,Student,350,10
+Recliner,Weekend Deal,350,15
